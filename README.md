@@ -1,16 +1,25 @@
-### Hi there 👋
+# Dohyeong Kim
+---
+:computer:
 
-<!--
-**2buldupki/2buldupki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2buldupki)](https://github.com/2buldupki/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazz)](https://solved.ac/hazz)
+
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
