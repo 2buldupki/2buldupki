@@ -2,9 +2,6 @@
 ---
 :computer:
 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2buldupki)](https://github.com/2buldupki/github-readme-stats)[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazz)](https://solved.ac/hazz)
 
 ---
